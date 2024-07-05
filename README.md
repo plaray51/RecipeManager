@@ -45,14 +45,17 @@ Add a New Recipe:
 Follow the prompts to enter the recipe name and number of servings.
 Add ingredients by specifying the ingredient name, number of cups, and calories per cup.
 Continue adding ingredients or finish the recipe by typing "no" when prompted to add another ingredient.
+
 Print All Recipe Names:
 
 Select the option to view all recipe names stored in the RecipeBox.
 Print All Recipe Details:
 
 Select the option to view detailed information about each recipe, including ingredients and total calories.
+
 Exit the Application:
 
 Choose the option to exit the program.
+
 Contributing
 If you wish to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
