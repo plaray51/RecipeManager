@@ -25,7 +25,7 @@ The project consists of the following main classes:
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/RecipeManager.git
+   git clone https://github.com/plaray51/RecipeManager.git
    cd RecipeManager
 
 2. **Compile the Java Files**:
